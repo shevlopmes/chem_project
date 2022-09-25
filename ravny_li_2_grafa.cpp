@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//peremen trebuyut nashi serdca
 using namespace std;
 
 template<typename T> void vyvesti_vector(vector<T> a){
